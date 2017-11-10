@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+.form_div{
+	font-size:15px;
+	
+}
+.input_div{
+	margin-left:55px;
+	border:2px solid #dcdfe5;
+	border-radius:4px;
+}
+.input_div2{
+	margin-left:78px;
+	border:2px solid #dcdfe5;
+	border-radius:4px;	
+}
+.input_div3{
+	margin-left:93px;
+	border:2px solid #dcdfe5;
+	border-radius:4px;	
+}
+.input_div4{
+	margin-left:4px;
+	border:2px solid #dcdfe5;
+	border-radius:4px;	
+}
+.input_div5{
+	margin-left:65px;
+	border:2px solid #dcdfe5;
+	border-radius:4px;	
+}

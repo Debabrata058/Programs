@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+.header{
+	 border: 1px solid;
+     padding: 10px;
+     background: #415677;
+     margin-top:-20px;
+     width:985px;
+     color:white;
+     font-size:16px;
+}
+.border{
+	border:1px solid #415677;
+    width:983px;
+    height:400px;
+    margin-top:-2px;
+    margin-left:1px;
+}
+.divinput{
+	margin-top:10px;
+	border:2px solid #CED0C9;
+	border-radius:4px;
+	width:210px;
+}
