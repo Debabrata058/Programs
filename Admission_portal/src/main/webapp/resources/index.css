@@ -1,0 +1,19 @@
+.container-fluid{
+	background-color:blue;
+}
+
+#images {
+		background: url(../resources/admission.jpg) no-repeat center center fixed;
+		display: table;
+		height: 90%;
+		position: relative;
+		width: 100%;
+		background-size: cover;
+}
+.landing-text{
+	padding-right: 80px;
+	padding-bottom: 190px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}

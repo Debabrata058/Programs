@@ -1,0 +1,57 @@
+@charset "ISO-8859-1";
+.header{
+	text-align: center;
+	color: blue;
+}
+.group legend{
+ background-color:#c3d0dd;
+ font-size:20px;
+}
+.body{
+	margin-left:45px;
+}
+.body4{
+	margin-left:85px;
+}
+.body1{
+	margin-left:20px;
+}
+.body2{
+	margin-left:15px;
+}
+.body3{
+	margin-left:69px;
+}
+.details{
+	font-size:17px
+}
+.row{
+	margin-left:10px;
+}
+.body5{
+	margin-left:70px;
+}
+.body6{
+	margin-right:1px;
+}
+.body7{
+	margin-left:65px;
+}
+.body8{
+	margin-left:40px;
+}
+.body9{
+	margin-left:55px;
+}
+.body10{
+margin-left:75px;
+}
+.body11{
+margin-left:30px;
+}
+.body12{
+margin-left:70px;
+}
+.body13{
+margin-left:55px;
+}
